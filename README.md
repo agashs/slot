@@ -27,6 +27,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![WhatsApp Image 2025-04-26 at 11 41 01_f102adb6](https://github.com/user-attachments/assets/128967f6-dcf3-4a13-a8a8-9d979b4d121a)
 
 INCLUDE YOUR OUTPUT IMAGE
 
